@@ -2,7 +2,7 @@
 # General Site Settings
 title: Georgeomics
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Thoughts, stories and ideas.
+description: The study of George
 hero-image: '/images/321.jpg'
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://georgeomics.github.io/personalsite" # The base hostname & protocol for your site, e.g. http://example.com
