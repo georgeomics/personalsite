@@ -5,7 +5,7 @@ permalink: /about/
 image: '/images/700.jpg'
 ---
 
-Hi, my name is Jeremy Maguire. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird.
+Hi, my name is George Zaragoza. This site is currently in testing phase with random text/images. Please excuse the mess.
 
 ![Time to think]({{site.baseurl}}/images/608.jpg)
 *Time to think*

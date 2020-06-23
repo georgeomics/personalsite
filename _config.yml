@@ -2,7 +2,7 @@
 # General Site Settings
 title: Georgeomics
 logo: # You can add own logo. For example '/images/logo.png'.
-description: The study of George.
+description: "A Study of George"
 hero-image: '/images/321.jpg'
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://georgeomics.github.io/personalsite" # The base hostname & protocol for your site, e.g. http://example.com
@@ -15,7 +15,7 @@ github_username:  georgeomics
 # Authors Settings
 author:
   name:     George Zaragoza
-  bio:      Hi, my name is George Zaragoza, this site is currently in testing with random text/images. Please excuse the mess.
+  bio:      Hi, my name is George Zaragoza, this site is currently in testing phase with random text/images. Please excuse the mess.
   location: Orlando, FL
   avatar:   /images/500.jpg
   twitter:  https://twitter.com/georgeomics
