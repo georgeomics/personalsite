@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/700.jpg'
+image: '/images/200.jpg'
 ---
 
 Hi, my name is George Zaragoza. This site is currently in testing phase with random text/images. Please excuse the mess.

@@ -3,7 +3,7 @@
 title: Georgeomics
 logo: # You can add own logo. For example '/images/logo.png'.
 description: "A Study of George"
-hero-image: '/images/321.jpg'
+hero-image: '/images/205.jpg'
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://georgeomics.github.io/personalsite" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -15,9 +15,9 @@ github_username:  georgeomics
 # Authors Settings
 author:
   name:     George Zaragoza
-  bio:      Hi, my name is George Zaragoza, this site is currently in testing phase with random text/images. Please excuse the mess.
+  bio:      Hi, my name is George Zaragoza, this site is currently in testing with several random text/images. Please excuse the mess.
   location: Orlando, FL
-  avatar:   /images/flower_bee.jpg
+  avatar:   /images/headshot_1.jpg
   twitter:  https://twitter.com/georgeomics
   github:   https://github.com/georgeomics
   cover:    /images/502.jpg
@@ -25,7 +25,7 @@ author:
 
 #-------------------------------
 # Featured Slider
-slider: true # NOTE - By default, the slider is set to display featured posts. To add featured post to the slider, add the field, featured: true in the YAML front matter block. If you do not want to use the slider, leave the slider field empty.
+#slider: true # NOTE - By default, the slider is set to display featured posts. To add featured post to the slider, add the field, featured: true in the YAML front matter block. If you do not want to use the slider, leave the slider field empty.
 
 
 #-------------------------------
@@ -43,12 +43,12 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/georgeomics"}
+#- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+#- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+#- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+- {icon: "ion ion-logo-github", link: "https://github.com/georgeomics"}
 
 #-------------------------------
 # Comment Section (Disqus)
