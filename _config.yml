@@ -16,11 +16,14 @@ github_username:  georgeomics
 author:
   name:     George Zaragoza
   bio:      Hi, my name is George Zaragoza, this site is currently in testing with several random text/images. Please excuse the mess.
+  
   location: Orlando, FL
   avatar:   /images/headshot_1.jpg
   twitter:  https://twitter.com/georgeomics
-  github:   https://github.com/georgeomics
-  cover:    /images/502.jpg
+  google:  https://scholar.google.com/citations?user=ADaaSzkAAAAJ
+  linkedin:  https://www.linkedin.com/in/georgezaragoza/
+  cover:    /images/214.jpg
+  cv: https://drive.google.com/uc?export=download&id=1uECrnd-qRaDyqtxjRZuS9DUQeXngH1vY
 
 
 #-------------------------------
@@ -31,24 +34,23 @@ author:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
-  description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. # Add a description of your form
+  email: george.zaragoza@gmail.com # Add your email for contant form
+  description: "Feel free to send me a message if you want to get in touch." # Add a description of your form
 
 # NOTE
 # Clifford theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
-
 #-------------------------------
 # Footer section
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
-# Other icons can be found at https://ionicons.com
+# Other possible icons can be found at https://ionicons.com
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/georgeomics"}
 #- {icon: "ion-logo-facebook", link: "https://facebook.com"}
 #- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-#- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion ion-logo-github", link: "https://github.com/georgeomics"}
+- {icon: "ion-logo-google", link: "https://scholar.google.com/citations?user=ADaaSzkAAAAJ"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/georgezaragoza/"}
+#- {icon: "ion-logo-github", link: "https://github.com/georgeomics"}
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -62,9 +64,9 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
-mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
-mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+#mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
+#mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+#mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
 #-------------------------------

@@ -9,15 +9,29 @@
 
   <h5 class="widget-author-name"><a href="{{site.baseurl}}/author/{{ page.author }}">{{site.author.name}}</a></h5>
   <div class="widget-author-bio">{{site.author.bio}}</div>
-
+  
+  <div class="widget-author-cv">
+  {% if site.author.cv %}
+  <a class="author-cv" href="{{ site.author.cv }}">Download CV</a>
+  {% endif %}
+  </div>
+  <br>
   <div class="widget-author-meta">
     {% if site.author.twitter %}
     <a class="twitter-link icon-link" href="{{site.author.twitter}}" target="_blank" rel="noopener"><i
         class="ion ion-logo-twitter"></i></a>
     {% endif %}
-    {% if site.author.facebook %}
-    <a class="facebook-link icon-link" href="{{site.author.facebook}}" target="_blank" rel="noopener"><i
-        class="ion ion-logo-facebook"></i></a>
+    {% if site.author.github %}
+    <a class="github-link icon-link" href="{{site.author.facebook}}" target="_blank" rel="noopener"><i
+        class="ion ion-logo-github"></i></a>
+    {% endif %}
+    {% if site.author.google %}
+       <a class="google-link icon-link" href="{{site.author.google}}" target="_blank" rel="noopener"><i
+           class="ion ion-logo-google"></i></a>
+    {% endif %}
+    {% if site.author.linkedin %}
+       <a class="linkedin-link icon-link" href="{{site.author.linkedin}}" target="_blank" rel="noopener"><i
+           class="ion ion-logo-linkedin"></i></a>
     {% endif %}
     {% if site.author.website %}
     <a class="author-link icon-link" href="{{site.author.website}}" target="_blank" rel="noopener"><i
