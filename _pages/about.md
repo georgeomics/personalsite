@@ -2,10 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+order: 1
 ---
+Hi, my name is George Zaragoza. My interests include conservation, genomics, philosophy, music, and various digital media. I'm particularly interested in conservation genomics as it uses the knowledge and tools from wildlife and land management, ethics, data science, genetics, and bioinformatics to address current issues regarding public lands, anthropogenic development, agriculture, and policy.
 
-Hi, my name is George Zaragoza. My interests range from X, Y, and Z, though I am particularly interested in Z and it's implication. Most of what I write will be within these domains, but I like to dabble in other subjects occasionally. Visit the contact page if you want to get in touch!
-
-![Construction]({{site.baseurl}}/images/327.jpg)
+Most of what I write will be within these domains, but I like to dabble in other subjects occasionally. Visit the contact page if you want to get in touch!
 
 
