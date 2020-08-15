@@ -111,7 +111,7 @@ One thing I've noticed in the South is how much less noticeable things like clim
 
 Brandon and I had the opportunity to visit a property that had been owned by a family in southern Alabama since the mid 1800's. There were some neat bits of history scattered throughout, like natural springs used as a water source 100 years ago and a family cemetery on property with names dating back to the Civil War. 
 
-It was interesting to see how the family was now managing the land, doing things like monitoring animal populations for hunting, farming small areas designated for crops, and managing pine farms that were on 40 year rotations of planting and harvesting for lumber.
+It was interesting to see how the family was tended the land, doing things like monitoring animal populations for hunting, farming small areas designated for crops, and managing pine farms that were on 40 year rotations of planting and harvesting for lumber.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1031.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Magnolia Tree</i></p>
