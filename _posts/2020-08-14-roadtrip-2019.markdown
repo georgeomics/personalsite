@@ -7,23 +7,23 @@ tags:   [Blog, Trip]
 featured: true
 ---
 
-The last year (really last two) has been quite the ride, from making the choice to leave a great (though admittedly too comfortable) position at Bayer and moving across the country with my husband to now, at this time of writing, waiting to start my first fall semester at graduate school in Florida.
+The last year (really last two) has been quite the ride, from making the choice to leave a great (though admittedly overly comfortable) position at Bayer and moving across the country with my husband to now, at this time of writing, waiting to start my first fall semester as a PhD student at the University of Central Florida.
 
-I was tossing around ideas about what to write about, but I figured the move across the country was a good place the start. I think the magnitude of the physical transition mirrors the change in my own mindset since the move.
+I was tossing around ideas about what to write about, but I figured the move across the country was a good place the start. I think the magnitude of the physical transition mirrors the change in my own mindset.
 
-So, let's begin.
+So, let's get started.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1000.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Last sunrise in California</i></p>
 
-Brandon and I stayed with friends in California for about a week before moving. Amidst managing the logistics of driving separate cars, shipping furniture, hotel reservations, emergency plans, and traveling with pets, we were fortunate to have a few moments of peace before traveling, though it was bittersweet saying goodbye to friends we could not longer just visit when we wanted to.
+Brandon and I stayed with friends in California for about a week before moving. Amidst managing the logistics of driving separate cars, shipping furniture, hotel reservations, emergency plans, and traveling with pets, we were fortunate to have a few moments of peace before traveling, though it was bittersweet saying goodbye to friends we had dinner with nearly every Friday for the last few years.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1002.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>I-80 north of Lake Tahoe</i></p>
 
-The first leg of the trip through was nothing new to us, we had made the trip up to lake Tahoe several times before. As we drove through the windy roads of the area, we were able to take in the last bit of the simultaneously rugged and terrifying beauty that surrounds California.
+The first leg of the trip through Northern California was nothing new to us; we had made the trip up to Tahoe several times before. As we drove through the windy roads of the area, we were able to take in the last bit of the simultaneously beautiful and terrifying terrain that surrounds California.
 
-A quick aside here. The two parts I was most nervous about during the trip included traveling through Tahoe (i.e. the Sierra Nevada mountain range) and our route through the Rockies. I've had some bad previous experiences with Tahoe. Whether it be my worst experience with a broken down car on a busy mountainside road or my headlights burning out in the middle of the night during a downpour, something always seemed off about the area. Maybe a distant ancestor committed a horrible crime or desecrated a sacred site and invoked a curse, or maybe it's just the mountains. Whatever it is, I usually make sure to take my time when traveling through. 
+A quick aside here. The two parts I was most nervous about during the trip included traveling through Tahoe (i.e. the Sierra Nevada mountain range) and our route through the Rockies. I've had some bad previous experiences with Tahoe. Whether it be my worst experience with a broken down car on a busy mountainside road or my headlights burning out in the middle of the night during a downpour, something always seemed to go wrong. Maybe a distant ancestor committed a horrible crime or desecrated a sacred site and invoked a curse, or maybe it's just the mountains. Whatever it is, I made sure we took our time as we travelled through the area. 
 
 Eventually, we descended into the Great Basin and made a quick pit stop in Reno to gas up and make sure our animals weren't too traumatized. All good so far.
 
@@ -32,7 +32,7 @@ Eventually, we descended into the Great Basin and made a quick pit stop in Reno 
 
 Driving through Nevada can be monotonous to say the least. It's mostly desert, with small towns appearing every now and then that always seem like precarious places to stop, like the infamous ["clown motel"](https://www.atlasobscura.com/places/clown-motel). 
 
-We powered through the drive, and eventually made it into Utah we're the geology started to show hints of read, highlighted by the setting sun. As we arrived into our Salt Lake City hotel, we ordered dinner from a nearby Chinese restaurant and fell asleep watching TV.
+We powered through the drive and eventually made it into Utah where the geology started to reveal hints of red, which were further highlighted by the setting sun. As we arrived into our Salt Lake City hotel, we ordered dinner from a nearby Chinese restaurant and fell asleep watching TV.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1007.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Outside of Salt Lake City</i></p>
@@ -42,7 +42,7 @@ We powered through the drive, and eventually made it into Utah we're the geology
 
 We were back on the road at 7am. This time, we had a shorter trek heading into Colorado. 
 
-I never realized how beautiful Utah was; the barren red iron-rich rock was almost Martian and otherworldly. It also helped that I had the <i>Horizon Zero Dawn</i> soundtrack playing as I drove through the area around Moab and got goosebumps several times because of it. This is one place from the trip I definitely plan to revisit.
+I never realized how beautiful Utah was. The barren red iron-rich rock was almost Martian at times and, though barren, the landscape tended to have an otherworldly feel. It also helped that I had the <i>Horizon Zero Dawn</i> soundtrack playing as I drove through the area around Moab and got goosebumps several times because of it. This is one place from the trip I definitely plan to revisit.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1008.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Traveling trough Utah</i></p>
@@ -53,7 +53,7 @@ I never realized how beautiful Utah was; the barren red iron-rich rock was almos
 <p><iframe src="https://www.youtube.com/embed/Ahjcv5fGH5o" frameborder="0" allowfullscreen></iframe></p>
 <p style="text-align: center; color:grey; font-size:15px">"Aloy's Theme" from <i>Horizon Zero Dawn</i></p>
 
-Continuing into the Rockies, I was surprised at how much Colorado reminded me of some of the best places in California. I admit, California can have a bit of a movie set feel due to it's rapid, but no doubt beautiful, changes of scenery. But Colorado just kept going. After each turn around mountain cliffs overlooking a river, there always seemed to be more. Again, the music helped make the experience, and I was listening to Brothers Osborne's 2018 <i>Port St. Joe</i> on repeat through the area (by the way, "While You Still Can" is one of the most beautiful songs ever written).
+Continuing into the Rockies, I was surprised at how much Colorado reminded me of some of the best places in California. I admit, California can have a bit of a movie set feel due to it's rapid, though no doubt beautiful, changes of scenery. But Colorado just kept going. After each turn around mountain cliffs overlooking a river, there always seemed to be more. Driving through the area, I had Brothers Osborne's 2018 album, <i>Port St. Joe</i>, on repeat (by the way, "While You Still Can" is probably one of the most beautiful songs ever written).
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1011.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1012.jpg" alt="picture" width="600"/></p>
@@ -63,7 +63,7 @@ Continuing into the Rockies, I was surprised at how much Colorado reminded me of
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/vwWMOSRQN4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <p style="text-align: center; color:grey; font-size:15px">"While You Still Can" from Brothers Osborne's <i>Port St. Joe</i></p>
 
-We made a quick pitstop in Grand Junction, and continued onwards to Denver. We hit some heavy traffic just outside of the city, the cause of which was a big-rig trailer full of Powerade that a falling boulder had rolled through. Frozen in gridlock for an hour, Chalupa Batman decided to come out of his carrier and look around, attracting the attention of a biker gang stuck next to me.
+After a quick pitstop in Grand Junction, we continued onwards to Denver. We hit some heavy traffic just outside of the city, the cause of which was a big-rig trailer full of Powerade that a falling boulder had rolled through. Frozen in gridlock for an hour, Chalupa Batman decided to come out of his carrier and look around, attracting the attention of a biker gang stuck next to me.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1015.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Travellin' Cat</i></p>
@@ -72,7 +72,7 @@ Eventually we arrived in Denver with plenty of time to grab dinner and drinks do
 
 <p style="text-align: center;  font-size:30px"><b>***</b></p>
 
-The next morning we headed out across the Great Plains into Kansas City. Leaving the mountains behind, we watched the landscape slowly transition to shades of green. I admit, I don't remember too much about this leg of the trip, but I appreciated the ability to be on mental autopilot and not deal with the stress of traveling through mountain roads for 6 hours. Nevertheless, the greenery was a welcome change to the usually dry and yellow conditions in California.
+The next morning we headed out across the Great Plains into Kansas City. Leaving the mountains behind, we watched the landscape slowly transition from golden plains to light shades of green. I admit, I don't remember too much about this leg of the trip, but I appreciated the ability to be on mental autopilot and not deal with the stress of traveling through mountain roads for 6 hours. Additionally, the green lanscape surrounding Kansas City was a welcome change to the usually dry and yellow conditions in California.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1018.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Kansas</i></p>
@@ -96,9 +96,9 @@ Brandon and I decided to grab dinner at [Hattie B's](https://hattieb.com/), whic
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1026.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Hattie B's fried chicken</i></p>
 
-Now, Brandon and I like our food <i>spicy</i> and decided to try one of Hattie B's wings at the highest offered heat level, "Shut the Cluck Up". Apparently - we did not know this at the time - "Shut the Cluck Up" can read upwards of 1,000,000 Scoville units, 4x the spiciness of a habanero pepper or over 100x times that of a jalapeno . We were quickly defeated after eating just half of this one wing and quickly regretted our decision as we consumed several glasses of water.
+Now, Brandon and I like our food <i>spicy</i> and we decided to try one of Hattie B's wings at the highest offered heat level, "Shut the Cluck Up". Apparently - we did not know this at the time - "Shut the Cluck Up" can reach upwards of 1,000,000 Scoville units, 4x the spiciness of a habanero pepper and over 100x times that of a jalapeno . We were quickly defeated after eating just half of this one wing and quickly regretted our decision as we consumed several glasses of water.
 
-We then headed into downtown Nashville to explore some of it's more touristy areas, stopping by places like the Ryman Auditorium and Broadway's multi-story bars, with stages for live music on every floor. 
+We then headed into downtown Nashville to explore some of it's more touristy areas, stopping by places like the Ryman Auditorium and Broadway's multi-story bars, that offered stages for live music on every floor. 
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1028.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Downtown Nashville</i></p>
@@ -107,11 +107,11 @@ This marked the end of the trip eastward as we would be traveling south to stay 
 
 <p style="text-align: center;  font-size:30px"><b>***</b></p>
 
-One thing I've noticed in the South is how much less noticeable things like climate change and the effects of anthropogenic development are when compared to places like California. In California's central valley, it's a bit more visually obvious that thousands of square miles of natural habitat were likely cleared for agriculture, and that hundreds of aqueducts and canals surrounding the area are redirecting water for the growing of crops. Traveling through Alabama, it was a bit easier to understand how some people may have trouble valuing the importance of environmental laws in places so comparatively green and lush. Also, it was a good reminder that different states will always have different needs.
+One thing I've noticed in the South is how much less noticeable things like climate change and the effects of anthropogenic development are when compared to places like California. In California's central valley, it's a bit more visually obvious that thousands of square miles of natural habitat were likely cleared for agriculture, and that hundreds of aqueducts and canals surrounding the area are redirecting water for the growing of crops. Traveling through Alabama, it was a bit easier to understand how some people may have trouble valuing the importance of strict environmental laws in places so comparatively green and lush. Also, it was a good reminder that different states will always have different needs.
 
-Brandon and I had the opportunity to visit a property that had been owned by a family in southern Alabama since the mid 1800's. There were some neat bits of history scattered throughout, like natural springs used as a water source 100 years ago and an actual family cemetery with names dating back to the Civil War. 
+Brandon and I had the opportunity to visit a property that had been owned by a family in southern Alabama since the mid 1800's. There were some neat bits of history scattered throughout, like natural springs used as a water source 100 years ago and a family cemetery on property with names dating back to the Civil War. 
 
-Additionally, it was cool to see how the family was now managing the land, doing things like monitoring animal populations for hunting, farming small areas designated for crops, and managing pine farms that were on 40 year rotations of planting and harvesting for lumber.
+It was interesting to see how the family was now managing the land, doing things like monitoring animal populations for hunting, farming small areas designated for crops, and managing pine farms that were on 40 year rotations of planting and harvesting for lumber.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1031.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Magnolia Tree</i></p>
@@ -122,9 +122,9 @@ Additionally, it was cool to see how the family was now managing the land, doing
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1033.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Sunset over Alabama</i></p>
 
-I appreciated this perspective of "living with the land" that someone, like me, who's spent most of their life in cities doesn't often get access to. Instead of talking about strategies and models of proper land and wildlife population management, these people were actually <i>doing</i> it. Obviously, I believe the best practices moving forward will require insights from both.
+I appreciated this perspective of "living with the land" that someone, like me, who's spent most of their life in cities doesn't often get access to. Instead of talking about strategies and models of proper land and wildlife population management, these people were actually <i>doing</i> it. Obviously, I believe the best practices moving forward will ideally value the insight and wisdom from both parties.
 
-After our stop in Alabama, we headed into Florida to complete our journey.
+After our visit to Alabama, we headed into Florida, thus completeing our 3000 mile journey.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1034.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Welcome to Florida</i></p>
