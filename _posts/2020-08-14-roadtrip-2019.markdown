@@ -9,9 +9,7 @@ featured: true
 
 The last year (really last two) has been quite the ride, from making the choice to leave a great (though admittedly overly comfortable) position at Bayer and moving across the country with my husband to now, at this time of writing, waiting to start my first fall semester as a PhD student at the University of Central Florida.
 
-I was tossing around ideas about what to write about, but I figured the move across the country was a good place the start. I think the magnitude of the physical transition mirrors the change in my own mindset.
-
-So, let's get started.
+I was tossing around ideas about what to write about, but I figured the move across the country was a good place the start. So, let's get started.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1000.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Last sunrise in California</i></p>
@@ -107,11 +105,11 @@ This marked the end of the trip eastward as we would be traveling south to stay 
 
 <p style="text-align: center;  font-size:30px"><b>***</b></p>
 
-One thing I've noticed in the South is how much less noticeable things like climate change and the effects of anthropogenic development are when compared to places like California. In California's central valley, it's a bit more visually obvious that thousands of square miles of natural habitat were likely cleared for agriculture, and that hundreds of aqueducts and canals surrounding the area are redirecting water for the growing of crops. Traveling through Alabama, it was a bit easier to understand how some people may have trouble valuing the importance of strict environmental laws in places so comparatively green and lush. Also, it was a good reminder that different states will always have different needs.
+One thing I've noticed in the South is how much less noticeable things like climate change and the effects of anthropogenic development are when compared to places like California. Growing up in California's central valley it was much more visually obvious that hundreds of square miles of natural habitat were gradually cleared for agriculture, and that hundreds of aqueducts and canals surrounding were dug to redirect water for the growing of crops. Traveling through Alabama and the greater south, it's more difficult to see the effects of climate change in places so comparatively green and lush. Also, it was a good reminder that different states and regions can have vastly different experiences, perspectives, and needs.
 
-Brandon and I had the opportunity to visit a property that had been owned by a family in southern Alabama since the mid 1800's. There were some neat bits of history scattered throughout, like natural springs used as a water source 100 years ago and a family cemetery on property with names dating back to the Civil War. 
+Brandon and I had the opportunity to visit a property that had been owned by a family in southern Alabama since the 1800's. There were some neat bits of history scattered throughout, like natural springs used as a water source 100 years ago and a family cemetery on property with names dating back to the Civil War. 
 
-It was interesting to see how the family tended the land, doing things like monitoring animal populations for hunting, farming small areas designated for crops, and managing pine farms that were on 40 year rotations of planting and harvesting for lumber.
+We learned a bit how the family tended the land through the decades (and century), doing things like monitoring animal health and populations for hunting, farming small crops, and managing pine farms that were on 40 year rotations of planting and harvesting for lumber. For someone like me, who's spent most of their life in cities, it was reassuring to see people have an authentic relationship with the land while simultaneuously doing the best they could to care for and maintain it.
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1031.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Magnolia Tree</i></p>
@@ -121,8 +119,6 @@ It was interesting to see how the family tended the land, doing things like moni
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1033.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Sunset over Alabama</i></p>
-
-I appreciated this perspective of "living with the land" that someone, like me, who's spent most of their life in cities doesn't often get access to. Instead of talking about strategies and models of proper land and wildlife population management, these people were actually <i>doing</i> it, and had been doing it for decades. No doubt, I believe the best practices moving forward will ideally value the insight and wisdom from both types of parties.
 
 After our visit to Alabama, we finally made it into Florida, thus completeing our 3000 mile journey.
 
