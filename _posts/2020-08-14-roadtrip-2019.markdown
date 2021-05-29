@@ -6,10 +6,18 @@ image:  '/images/1034.jpg'
 tags:   [Blog, Trip]
 featured: true
 ---
+I was tossing around ideas about what to write about, but I figured my 2019 move across the country was a good place the start. So, let's get started.
 
-The last year (really last two) has been quite the ride, from making the choice to leave a great (though admittedly overly comfortable) position at Bayer and moving across the country with my husband to now, at this time of writing, waiting to start my first fall semester as a PhD student at the University of Central Florida.
+Living in northern California for the majority of the last decade, I constantly thought about the ecological interactions that I participated in each day. Whether being visited by an overly-curious squirrel during lunch or noticing the path in the grass I was carving by taking the same shortcut to class each day, I wondered how my actions, and other's, were affecting the local environment I live in. My time as an undergraduate at the University of California, Davis provided some of the first perspectives of this from which I learned how to translate observations of the world into data and, consequently, suggestions for conservation action.
 
-I was tossing around ideas about what to write about, but I figured the move across the country was a good place the start. So, let's get started.
+<p style="text-align: center;"><img src="{{site.baseurl}}/images/1035.jpg" alt="picture" width="600"/></p>
+<p style="text-align: center; color:grey; font-size:15px"><i>Running trail I frequented</i></p>
+
+A couple of years after receiving my B.S., the abundance of agricultural job opportunities in the Sacramento Valley naturally directed me towards an early career in agricultural research. Although it wasn't an exact match to my interests as an undergraduate, it provided immense opportunities to learn from scientists working on projects at a global scale. It was from this position that I began to better understand the value of fields like data science and genomics, fields which I had been greatly intimidated of in the past. I began thinking about applications of these fields in ecology and conservation, and it was thanks to the patience and accessibility of mentors during this time that the puzzle pieces in my mind finally began to link together.
+
+In 2019, I reached a personal crossroads in which a combination of family situations, financial stability, ending lease terms, and many other factors cleared a path to explore future career directions as well as graduate school opporunities. A couple of moves, countless late nights, many emails, several phone calls, and numerous beers later, my husband and I finally settled into Orlando and I began my first few months as a PhD student at the University of Central Florida.
+
+However, in order to reach this milestone, we had to travel across the country first...
 
 <p style="text-align: center;"><img src="{{site.baseurl}}/images/1000.jpg" alt="picture" width="600"/></p>
 <p style="text-align: center; color:grey; font-size:15px"><i>Last sunrise in California</i></p>
