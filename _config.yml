@@ -4,7 +4,7 @@ title: Georgeomics
 logo: # You can add own logo. For example '/images/logo.png'.
 description: "A Site by George Zaragoza"
 hero-image: '/images/205.jpg'
-baseurl: '/personalsite' # The subpath of your site, e.g. /blog
+baseurl: '' # The subpath of your site, e.g. /blog
 url: "https://georgeomics.github.io/personalsite" # The base hostname & protocol for your site, e.g. http://example.com
 
 blog-theme: dark # You can use a `dark` or `light` theme.
